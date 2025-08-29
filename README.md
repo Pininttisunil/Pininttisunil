@@ -79,13 +79,21 @@
 ## 🚀 Projects
 
 ### 🏠 [House Price Prediction](https://github.com/Pininttisunil/SCT_ML_1/blob/main/House_price_prediction.ipynb)  
-🔹 Used regression models with feature engineering for accurate real estate pricing.
+🔹 Used regression models with feature engineering for accurate real estate pricing.  
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
+---
 
 ### 🩺 [Diabetic Retinopathy Detection](https://github.com/Pininttisunil/AIML/blob/main/Diabetic_retinopathy.ipynb)  
-🔹 Built CNN-based system for early detection of diabetic eye disease with 25% better accuracy.
+🔹 Built CNN-based system for early detection of diabetic eye disease with 25% better accuracy.  
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+
+---
 
 ### 💼 [Insurance Fraud Detection](https://github.com/Pininttisunil/AIML/blob/main/AIML_PROJECT.ipynb)  
-🔹 ML-based model to flag fraudulent claims using Decision Trees and Random Forests.
+🔹 ML-based model to flag fraudulent claims using Decision Trees and Random Forests.  
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
 
 ---
 
