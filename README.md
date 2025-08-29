@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Pinintti Sunil</h1>
 <h3 align="center">B.Tech CSE @ SR University</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=650&weight=600&lines=🚀+AI-ML+Enthusiast;💻+Full+Stack+Developer;🐍+Python+%7C+Java+%7C+SQL;☁️+Cloud+%26+DevOps+Learner;📚+Always+Learning+New+Things">
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI-ML+Enthusiast;Full+Stack+Developer;Python+%7C+Java+%7C+SQL;Cloud+%26+DevOps+Learner;Always+Learning+New+Things"> </p>
 
 
 
