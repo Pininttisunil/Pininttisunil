@@ -6,14 +6,21 @@
 <h3 align="center">B.Tech CSE @ SR University</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI-ML+Enthusiast;Full+Stack+Developer;Python+%7C+Java+%7C+SQL;Cloud+%26+DevOps+Learner;Always+Learning+New+Things"> </p>
 
-
-
 <p align="center">
-  <a href="mailto:sunilpinintti@gmail.com"><img src="https://img.shields.io/badge/email-sunilpinintti@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/pinintti-sunil-0a5028295/"><img src="https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Pininttisunil"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
-  <a href="https://leetcode.com/u/Pinintti_Sunil_14/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode"></a>
+  <a href="mailto:sunilpinintti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sunilpinintti@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pinintti-sunil-0a5028295/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Pininttisunil">
+    <img src="https://img.shields.io/badge/GitHub-Pininttisunil-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://leetcode.com/u/Pinintti_Sunil_14/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+  </a>
 </p>
+
 
 ---
 
