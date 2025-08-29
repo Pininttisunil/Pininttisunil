@@ -63,11 +63,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pininttisunil&layout=compact&theme=radical" width="48%"/>
 </p>
-## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github.com/Pininttisunil/Pininttisunil/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 
 ---
