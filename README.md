@@ -64,8 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pininttisunil&layout=compact&theme=radical" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Pininttisunil/Pininttisunil/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pininttisunil&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
+
 
 
 
