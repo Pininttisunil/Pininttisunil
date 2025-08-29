@@ -51,17 +51,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
-
-## 🛠️ Skills
-
-```yaml
-Languages     : Python, Java, SQL
-Web Dev       : HTML, CSS, JavaScript, Bootstrap
-ML Tools      : NumPy, Pandas, Scikit-learn, TensorFlow, CNNs
-Tools & IDEs  : Git, GitHub, VS Code
-Core Subjects : DSA, OS, DBMS, CN
-```
-
 ---
 
 ## 📊 GitHub Stats
@@ -74,6 +63,12 @@ Core Subjects : DSA, OS, DBMS, CN
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pininttisunil&layout=compact&theme=radical" width="48%"/>
 </p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/Pininttisunil/Pininttisunil/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ---
 
